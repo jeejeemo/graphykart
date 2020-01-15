@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b6896c-0146-4ad1-a95e-e32fb1796f07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/myApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/ionic.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/public/assets/icon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/public/assets/icon/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/public/assets/shapes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/pages/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/src/theme/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/ionic.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab1/tab1.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab1/tab1.page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab1/tab1.page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab1/tab1.page.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab1/tab1.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab2/tab2.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab2/tab2.page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab2/tab2.page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab2/tab2.page.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab2/tab2.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab3/tab3.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab3/tab3.page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab3/tab3.page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab3/tab3.page.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tab3/tab3.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tabs/tabs-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tabs/tabs.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tabs/tabs.page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tabs/tabs.page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tabs/tabs.page.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/app/tabs/tabs.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/assets/icon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/assets/shapes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/theme/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/src/zone-flags.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myGallery/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="grafikart" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myGallery" />
+  </component>
+  <component name="MessDetectorProjectConfiguration">
+    <option name="selectedConfigurationId" value="DEFAULT_INTERPRETER" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2.18">
+    <include_path>
+      <path value="$PROJECT_DIR$/composer/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/composer/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UZ5jRdlbxK9mLlZoXnhvhnQjqD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/FORMATION/Html-css/ClipScrollEffectMaskParalax" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="ts.external.directory.path" value="C:\wamp64\www\autoform\grafikart\myApp\myApp\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\autoform\grafikart\PHP\HTML-PHP\APP" />
+      <recent name="C:\wamp64\www\autoform\grafikart\PHP\HTML-PHP" />
+      <recent name="C:\wamp64\www\autoform\grafikart\POO\class" />
+      <recent name="C:\wamp64\www\autoform\grafikart\POO\class\PERSO" />
+      <recent name="C:\wamp64\www\autoform\grafikart\POO\class\HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\autoform\grafikart\PHP\HTML-PHP\APP\data" />
+      <recent name="C:\wamp64\www\autoform\grafikart\BLOG\public\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="1" Dictionary0="C:\Users\jmbit\Downloads\fr\fr.dic" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b6896c-0146-4ad1-a95e-e32fb1796f07" name="Default" comment="" />
+      <created>1513627788568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513627788568</updated>
+      <workItem from="1513627789943" duration="398000" />
+      <workItem from="1515182791589" duration="5344000" />
+      <workItem from="1519370856003" duration="28014000" />
+      <workItem from="1519658482357" duration="36718000" />
+      <workItem from="1520500416691" duration="3577000" />
+      <workItem from="1549466454708" duration="1682000" />
+      <workItem from="1550744623335" duration="275000" />
+      <workItem from="1552490812883" duration="1079000" />
+      <workItem from="1552558613640" duration="3358000" />
+      <workItem from="1554119946696" duration="592000" />
+      <workItem from="1562166346315" duration="1010000" />
+      <workItem from="1562765100211" duration="1098000" />
+      <workItem from="1563258124998" duration="1600000" />
+      <workItem from="1564556511250" duration="2380000" />
+      <workItem from="1564673629097" duration="756000" />
+      <workItem from="1566809293605" duration="13325000" />
+      <workItem from="1566914883398" duration="2776000" />
+      <workItem from="1566917766361" duration="1445000" />
+      <workItem from="1567608645115" duration="2000" />
+      <workItem from="1567675068939" duration="1230000" />
+      <workItem from="1568195786836" duration="29014000" />
+      <workItem from="1568905996702" duration="6082000" />
+      <workItem from="1569420176604" duration="1039000" />
+      <workItem from="1571216069526" duration="527000" />
+      <workItem from="1571585866916" duration="3521000" />
+      <workItem from="1571746333447" duration="39458000" />
+      <workItem from="1572516575348" duration="1682000" />
+      <workItem from="1573038607981" duration="5895000" />
+      <workItem from="1573048365450" duration="5684000" />
+      <workItem from="1573131473128" duration="592000" />
+      <workItem from="1573217632910" duration="3817000" />
+      <workItem from="1573415054076" duration="3046000" />
+      <workItem from="1573543438000" duration="594000" />
+      <workItem from="1573586245824" duration="593000" />
+      <workItem from="1573738101381" duration="38000" />
+      <workItem from="1573803217617" duration="8016000" />
+      <workItem from="1573988127408" duration="10578000" />
+      <workItem from="1574256813027" duration="15000" />
+      <workItem from="1574428777749" duration="7076000" />
+      <workItem from="1575551420816" duration="2239000" />
+      <workItem from="1576150183189" duration="5798000" />
+      <workItem from="1576167395695" duration="3803000" />
+      <workItem from="1576230150198" duration="594000" />
+      <workItem from="1576502256003" duration="807000" />
+      <workItem from="1576667793913" duration="257000" />
+      <workItem from="1577280844733" duration="1067000" />
+      <workItem from="1577716992351" duration="1431000" />
+      <workItem from="1577719352532" duration="19848000" />
+      <workItem from="1578565968914" duration="37767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="1332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578924312652">
+      <screen x="151" y="1080" width="1600" height="900" />
+    </state>
+    <state x="678" y="1332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/151.1080.1600.900@151.1080.1600.900" timestamp="1578924312652" />
+    <state x="726" y="1310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578911961388">
+      <screen x="151" y="1080" width="1600" height="900" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1600.322.1600.900@0.0.1920.1040" timestamp="1578575276612" />
+    <state x="726" y="1310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/151.1080.1600.900@151.1080.1600.900" timestamp="1578911961388" />
+    <state x="808" y="1292" key="FileChooserDialogImpl" timestamp="1578929172249">
+      <screen x="151" y="1080" width="1600" height="900" />
+    </state>
+    <state x="657" y="203" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577959769531" />
+    <state x="808" y="1292" key="FileChooserDialogImpl/0.0.1920.1040/151.1080.1600.900@151.1080.1600.900" timestamp="1578929172249" />
+    <state x="863" y="1469" key="NewPhpFileDialog" timestamp="1579009555388">
+      <screen x="151" y="1080" width="1600" height="900" />
+    </state>
+    <state x="712" y="372" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1577975432190" />
+    <state x="854" y="450" key="NewPhpFileDialog/0.0.1920.1040/-1600.322.1600.900@0.0.1920.1040" timestamp="1578408100551" />
+    <state x="863" y="1469" key="NewPhpFileDialog/0.0.1920.1040/151.1080.1600.900@151.1080.1600.900" timestamp="1579009555388" />
+    <state x="753" y="1223" key="SettingsEditor" timestamp="1578997314657">
+      <screen x="151" y="1080" width="1600" height="900" />
+    </state>
+    <state x="821" y="165" key="SettingsEditor/0.0.1920.1040/-1600.322.1600.900@0.0.1920.1040" timestamp="1578325322400" />
+    <state x="753" y="1223" key="SettingsEditor/0.0.1920.1040/151.1080.1600.900@151.1080.1600.900" timestamp="1578997314657" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576170747280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1600.322.1600.900@0.0.1920.1040" timestamp="1576170747280" />
+    <state x="1105" y="181" key="search.everywhere.popup" timestamp="1577719042086">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1105" y="181" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1577719042086" />
+  </component>
+</project>

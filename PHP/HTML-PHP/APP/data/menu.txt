@@ -1,0 +1,17 @@
+Pizza		
+Végétarienne	Tomates fraiches, tapenade d'olive, tomates séchées, oignons	9
+Jambon Mozzarela	Blancs de volailles, base mozza, parmesan, jambon, tomates	10
+Trois Fromages	Mozzarella, chévre, gorgonzola, tomates fraiches	10
+Régina	Jambon cuit, champignons de Paris, mozzarella, sauce tomate	10
+Margherita	Mozzarella, chévre, gorgonzola, tomates fraiches	11
+Vésuvio	Chorizo, poivrons frais, oignons, éuf, mozarella, sauce tomate	12
+Merguez	Merguez béuf et mouton, oignons rouges, dés de tomates	13
+Déssert		
+Café Gourmand	Café, décafeiné ou thé, Gauffre ou moelleux au chocolat, sauce chocolat	7
+Moelleux au chocolat	Moelleux, amendes grillées	5
+Crousti poires caramel	Mini pizza cuite é la minute, créme d'amendes, poires caramel	5
+Mouse au chocolat	Du chocolat fondant noir allégé aux blanc d'éufs	6
+Glaces		
+Coupes Antillaise	Rhum raisins(3boules) rhum	4
+Colonel Italien	Citron(3boules), Grappa Piave	4.5
+Fresca Framboise	Sorbets citron, framboise, fruit de la passion, coulis de framboise	5
