@@ -1,0 +1,11 @@
+1 9h - 12h
+2 14h - 16h
+
+ou 
+
+1 9h - 12h
+2 11h - 17h
+
+1 - si heure debut 1 est inclus ds 2
+    ou heure fin 1 est inclus ds 2
+    ou heure debut 1 < debut2 && fin1 > fin2
