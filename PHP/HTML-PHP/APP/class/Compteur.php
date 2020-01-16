@@ -2,6 +2,7 @@
 
 
 class Compteur {
+	const INCREMENT=1;
 	public $fichier;
 
 	public function __construct(string $fichier)
@@ -15,7 +16,7 @@ class Compteur {
 		if ( file_exists( $this ->fichier ) ) {
 			//si fichier existe on incrémente
 			$compteur = (int) file_get_contents( $this ->fichier );
-			$compteur ++;
+			$compteur += static::INCREMENT;
 		}
 		file_put_contents($this->fichier,$compteur);
 	}
