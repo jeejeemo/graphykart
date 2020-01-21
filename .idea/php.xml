@@ -8,7 +8,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\wamp64\bin\php\php7.2.18\php.exe" id="c23289f8-d41c-4acf-8c4d-d7d6d7057dea" name="PHP 7.2.18" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c23289f8-d41c-4acf-8c4d-d7d6d7057dea" name="PHP 7.2.18" home="C:\wamp64\bin\php\php7.2.18\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -74,5 +74,5 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
 </project>
