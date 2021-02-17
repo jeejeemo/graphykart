@@ -1,8 +1,0 @@
-{
-    "name": "jeanmo/composer",
-    "require": {
-        "michelf/php-markdown": "^1.7",
-      "ext-curl": "*",
-      "ext-pdo": "*"
-    }
-}

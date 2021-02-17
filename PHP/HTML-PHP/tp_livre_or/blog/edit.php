@@ -33,9 +33,9 @@ try{
 }catch (PDOException $e){
 	$error = $e ->getMessage();
 }
-require '../elements/header.php';?>
+require './elements/header.php';?>
 <div class="container">
-	<a href="index.php">Retour</a>
+	<a href="../tp_livre_or/index.php">Retour</a>
 	<?php
 	if($success):?>
 	<div class="alert alert-success"><?=$success?></div>
