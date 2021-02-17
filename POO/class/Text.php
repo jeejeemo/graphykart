@@ -14,6 +14,10 @@ class Text
 
 
 
+    public static function publicWithZero($chiffre){
+        return self::withZero($chiffre);
+    }
+
     public static function withZero($chiffre){
         if($chiffre<10){
             return '0' .$chiffre. self::SUFFIX;

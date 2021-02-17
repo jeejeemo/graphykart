@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d79d3bc5-fbe4-4f6a-8ed6-9b633a88d6e6" name="wamp64" url="http://localhost/autoform/">
+        <fileTransfer port="0" mountedRoot="C:\wamp64_3.2\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

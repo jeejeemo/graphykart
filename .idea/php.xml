@@ -8,15 +8,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="c23289f8-d41c-4acf-8c4d-d7d6d7057dea" name="PHP 7.2.18" home="C:\wamp64\bin\php\php7.2.18\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c23289f8-d41c-4acf-8c4d-d7d6d7057dea" name="PHP 7.24.0" home="C:\wamp64_3.2\bin\php\php7.4.0\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2.18">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.2.18\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.2.18\php.exe" path_separator=";" version="7.2.18">
+      <interpreter name="PHP 7.24.0">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64_3.2\bin\php\php7.4.0\php-cgi.exe" php_cli="C:\wamp64_3.2\bin\php\php7.4.0\php.exe" path_separator=";" version="7.4.0">
           <additional_php_ini />
-          <configuration_file>C:\wamp64\bin\php\php7.2.18\php.ini</configuration_file>
+          <configuration_file>C:\wamp64_3.2\bin\php\php7.4.0\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -61,7 +61,6 @@
             <extension name="sockets" />
             <extension name="standard" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
@@ -74,5 +73,5 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
 </project>

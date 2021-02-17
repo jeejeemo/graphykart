@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +11,7 @@
 </head>
 
 <body>
-<?php
+    <?php
 use \Tutoriel\HTML\BootstrapForm;
 use \Tutoriel\Autoloader;
 /**
@@ -33,19 +34,16 @@ require 'class/Autoloader.php';
 
 $form = new Tutoriel\HTML\BootstrapForm($_POST);
 ?>
-<form action="#" methode ="POST">
-    <?php
+    <form action="#" methode="POST">
+        <?php
     echo $form->input('username');
     echo $form->input('password');
     echo $form->submit();
 
     ?>
 
-</form>
+    </form>
 
 </body>
+
 </html>
-
-
-
-

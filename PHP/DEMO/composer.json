@@ -1,0 +1,17 @@
+{
+    "name": "jeanmo/demo",
+    "authors": [
+        {
+            "name": "Jean-Mo",
+            "email": "jmbitoun@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\":"src/"
+        }
+    },
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
