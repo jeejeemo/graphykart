@@ -1,4 +1,6 @@
 <?php
+
+/* test git */
 /**curl_init() */
 $curl = curl_init("https://api.openweathermap.org/data/2.5/weather?q=Perpignan&units=metric&lang=fr&appid=f622ed199e4410f6d19723a6567445ac");
 
