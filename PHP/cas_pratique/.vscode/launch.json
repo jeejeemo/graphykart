@@ -4,12 +4,18 @@
     // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "name": "Launch Chrome Ecn",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "http://localhost/ecn",
+            "webRoot": "${workspaceFolder}"
+        },
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "http://localhost/autoform/grafikart/PHP/HTML-PHP/Apprendre le PHP/index.php",
+            "name": "Launch Chrome Grafikart",
+            "url": "http://localhost/autoform/grafikart/PHP/",
             "webRoot": "${workspaceFolder}"
         }
     ]

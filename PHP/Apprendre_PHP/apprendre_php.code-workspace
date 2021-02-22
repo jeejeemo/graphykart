@@ -2,10 +2,18 @@
 	"folders": [
 		{
 			"path": ".."
-		},
-		{
-			"path": "..\\..\\..\\..\\ecncours\\coursphpecn"
 		}
 	],
-	"settings": {}
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch Chrome",
+				"request": "launch",
+				"type": "pwa-chrome",
+				"url": "http://localhost/autoform/grafikart/",
+				"webRoot": ":${workspaceFolder}"
+			}
+		]
+	}
 }
